@@ -2,11 +2,11 @@
 Dictionary using linked list of list in c++ Data Structures
 ## Current Progress
 ### take input from the user as a word and its possible meanings and Add them to the Dictionary as Word Object
-### Read Words and meaning from a comma seperated text file and then add them to the dictionary
+### Read Words and meaning from a comma separated text file and then add them to the dictionary
 ### read from the JSON file and Created Dictionary
 ### Write Created Dictionary to a JSON File
 current file can be found in project folder as wordlist.txt
-the file contains comma seperated words and their meaning
+the file contains comma separated words and their meaning
 First Word of each line is Term or Word and remaining words in the same line are the meanings or definations of the first word
 ### Write the loaded dictionary to a JSON File
 file can be found in the project folder as jsonfile.json
