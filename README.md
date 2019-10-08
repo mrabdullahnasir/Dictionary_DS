@@ -13,7 +13,7 @@ file can be found in the project folder as jsonfile.json
 ### type a particular word to search it's meanings from the loaded dictionary from the file
 the user types a word if the word is found in the Dictionary then user can see all the definitions/ meanings of the word 
 
-# note 
+# Important note 
 all the words/meanings/definitions of the dictionary are converted to upper case before storing or loading 
 and if a user wants to search a particular word's meaning , that word is also converted to same case. in this way searching something from dictionary will not be case sensitive any more .
 # Things to be Done
